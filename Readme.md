@@ -16,11 +16,6 @@ Visit the website: [Leepha Quality](https://LeephaQuality.com/)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-#
-<h3> 📌 Live Demo of the Website:</h3>
-
-https://user-images.githubusercontent.com/90326051/192001070-e5b69685-9c0a-4c3b-994a-0e5cdf5af577.mp4
-
 
 #
 <h3> 📌 Contribution Guidelines 🏗 </h3>
